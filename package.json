@@ -1,0 +1,10 @@
+{
+ "name": "Tekathon2019",
+ "version": "0.0.1",
+ "main": "lambda.js",
+ "author": "Shivam",
+ "description": "For Tekathon",
+ "dependencies": {
+  "nodemailer": "6.4.6"
+ }
+}
